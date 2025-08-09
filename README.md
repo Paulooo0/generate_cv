@@ -227,11 +227,12 @@ Se encontrar problemas:
 
 1. **Execute o teste de compatibilidade:**
    ```bash
+   # Exemplo em Linux
    python3 tools/test_compatibility.py
    ```
 
 2. **Verifique se o LibreOffice está instalado:**
-   - Windows: Execute `python3 tools/check_libreoffice.py`
+   - Windows: Execute `python tools/check_libreoffice.py`
    - Linux: Execute `sudo apt install libreoffice`
 
 3. **Confirme que todas as dependências Python estão instaladas:**
@@ -244,11 +245,12 @@ Se encontrar problemas:
    - Windows: `.\venv\Scripts\Activate.ps1`
 
 5. **Problemas específicos do Windows:**
-   - Execute `python3 tools/add_libreoffice_to_path.py` para adicionar ao PATH
+   - Execute `python tools/add_libreoffice_to_path.py` para adicionar ao PATH
    - Execute o PowerShell como administrador se necessário
    - Verifique se o Windows Defender não está bloqueando os scripts
 
 6. **Reexecute o setup universal:**
    ```bash
+   # Exemplo em Linux
    python3 setup.py
    ```
