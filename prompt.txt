@@ -8,7 +8,7 @@ Aqui está o código que gera o docx do meu currículo entre <code>, que será o
 
 <code>
 
-[COLE AQUI O build_docx.py ADAPTADO PARA O SEU CURRÍCULO (UTILIZE IA PARA ADAPTÁ-LO)]
+[COLE AQUI O original.py ADAPTADO PARA O SEU CURRÍCULO (UTILIZE IA PARA ADAPTÁ-LO)]
 
 </code>
 
