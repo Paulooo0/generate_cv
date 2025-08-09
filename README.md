@@ -2,6 +2,39 @@
 
 Um projeto Python que automatiza a criação de currículos profissionais em formato DOCX e PDF, com suporte para Linux e Windows.
 
+## 📑 Sumário
+
+1. [🚀 Funcionalidades](#-funcionalidades)
+2. [📋 Pré-requisitos](#-pré-requisitos)
+3. [🛠️ Instalação](#️-instalação)
+
+   * [Setup Universal (Recomendado)](#setup-universal-recomendado)
+   * [Setup Manual por Sistema](#setup-manual-por-sistema)
+
+     * [Linux (Ubuntu/Debian)](#linux-ubuntudebian)
+     * [Windows](#windows)
+   * [Verificações e Ferramentas](#verificações-e-ferramentas)
+   * [Instalação Manual](#instalação-manual)
+4. [📝 Uso](#-uso)
+
+   * [Personalizar o Currículo](#personalizar-o-currículo)
+   * [Gerar o Currículo](#gerar-o-currículo-formas-fáceis)
+
+     * [Opção 1: Script Universal (Recomendado)](#opção-1-script-universal-recomendado)
+     * [Opção 2: Scripts Específicos por Sistema](#opção-2-scripts-específicos-por-sistema)
+     * [Opção 3: Manual (Avançado)](#opção-3-manual-avançado)
+   * [Utilize o currículo gerado](#utilize-o-currículo-gerado)
+5. [🔧 Dependências](#-dependências)
+6. [🌐 Compatibilidade Cross-Platform](#-compatibilidade-cross-platform)
+
+   * [Linux](#-linux)
+   * [Windows](#-windows)
+   * [macOS](#-macos)
+   * [Melhorias de Compatibilidade](#-melhorias-de-compatibilidade)
+7. [📁 Arquivos Gerados](#-arquivos-gerados)
+8. 🆘 Suporte
+
+
 ## 🚀 Funcionalidades
 
 - **Geração automática de currículo** em formato DOCX
