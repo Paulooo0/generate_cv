@@ -92,6 +92,19 @@ Se preferir instalar manualmente:
 
 ## 📝 Uso
 
+### Personalizar o Currículo
+
+Peça para uma IA gerar um `buid_docx.py` a partir do seu `original.py` e o seu `prompt.txt`.
+
+Estas são as sessões atualmente utilizadas, modifique-as como desejar:
+- **Informações pessoais** (nome, contato, links)
+- **Resumo profissional**
+- **Experiência profissional**
+- **Educação**
+- **Certificações**
+- **Habilidades técnicas**
+- **Idiomas**
+
 ### Gerar o Currículo (Formas Fáceis)
 
 #### **Opção 1: Script Universal (Recomendado)**
@@ -131,31 +144,9 @@ python3 app/main.py  # Linux
 python app/main.py   # Windows
 ```
 
-### Personalizar o Currículo
-
-Edite o arquivo `app/build_docx.py` para personalizar:
-
-- **Informações pessoais** (nome, contato, links)
-- **Resumo profissional**
-- **Experiência profissional**
-- **Educação**
-- **Certificações**
-- **Habilidades técnicas**
-- **Idiomas**
-
-Ou crie sessões novas como desejar
-
-## 📄 Formato do Currículo
-
-O currículo gerado inclui as seguintes seções:
-
-1. **Cabeçalho** - Nome e informações de contato
-2. **Resumo Profissional** - Descrição concisa do perfil
-3. **Certificações** - Certificações relevantes
-4. **Experiência Profissional** - Histórico de trabalho
-5. **Educação** - Formação acadêmica
-6. **Idiomas** - Proficiência em idiomas
-7. **Habilidades Técnicas** - Competências técnicas
+### Utilize o currículo gerado
+ - Abra a pasta `out`, e lá estará o resultado final nos formatos `PDF` e `docx`.
+ - Caso queira modificar o resultado, modifique o `build_docx.py` ou altere o arquivo `cv.docx` através de um editor como o Word.
 
 ## 🔧 Dependências
 
