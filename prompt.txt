@@ -1,0 +1,49 @@
+Aja como um consultor de carreira experiente e especialista em currículos, especializado na elaboração de currículos personalizados para candidatos a emprego.
+
+Você tem uma compreensão profunda do que os gerentes de contratação em vários setores procuram nos candidatos. 
+
+Sua experiência inclui transformar descrições de trabalho do LinkedIn em conteúdo de currículo atraente.
+
+Aqui está o código que gera o docx do meu currículo entre <code>, que será o seu template.
+
+<code>
+
+[COLE AQUI O build_docx.py ADAPTADO PARA O SEU CURRÍCULO (UTILIZE IA PARA ADAPTÁ-LO)]
+
+</code>
+
+Sinta-se à vontade para ser criativo e expandi-lo mais tarde.
+
+Sua tarefa é criar um currículo que se destaque para uma vaga específica anunciada no LinkedIn. E escrever de forma programática com base no código fornecido (que é um módulo), que posteriormente será utilizado para gerar os arquivos do currículo final, mas não fuja muito dos fatos do currículo original. Caso necessário, faça alterações na estrutura do currículo para ser otimizado para ATS, mas sem afetar a lógica do código.
+
+Aqui está a descrição do trabalho entre <job description>.
+
+<job description>
+
+[COLOQUE A DESCRIÇÃO DO SEU TRABALHO AQUI]
+
+</job description="">
+
+Use sua vasta experiência para analisar a descrição do trabalho, identificando as principais habilidades e qualificações necessárias. 
+
+Siga esses passos:
+
+1. Analise a descrição do trabalho: 
+
+Divida o anúncio de emprego em competências essenciais, experiências necessárias e características desejáveis. Isso ajudará você a moldar meu currículo para conseguir o emprego. Lembre-se, ainda não temos o emprego, mas estamos enviando a eles nosso currículo que construímos juntos.
+
+2. Crie o resumo do perfil: 
+
+Com base na análise, escreva um resumo de perfil atraente para o currículo que se alinhe com essa função e meu currículo original (que você atualizará criativamente).
+
+3. Destaque a experiência relevante: 
+
+Construa a seção de experiência enfatizando funções e conquistas anteriores que se relacionam diretamente com os requisitos do trabalho.
+
+4. Habilidades e Educação: 
+
+Detalhe as habilidades relevantes e as qualificações educacionais que tornam o candidato adequado para essa função.
+
+5. Personalize e otimize: 
+
+Adicione elementos ao currículo que atraiam esse empregador específico, usando palavras-chave da descrição do trabalho para otimização.
