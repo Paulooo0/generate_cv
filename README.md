@@ -228,14 +228,3 @@ Se encontrar problemas:
    ```bash
    python3 setup.py
    ```
-
-7. **Consulte as issues do projeto para problemas conhecidos**
-
-## 🔄 Atualizações
-
-Para atualizar o projeto:
-
-```bash
-git pull origin main
-pip install -r app/requirements.txt --upgrade
-```
