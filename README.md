@@ -32,7 +32,7 @@ Um projeto Python que automatiza a criação de currículos profissionais em for
    * [macOS](#-macos)
    * [Melhorias de Compatibilidade](#-melhorias-de-compatibilidade)
 7. [📁 Arquivos Gerados](#-arquivos-gerados)
-8. 🆘 Suporte
+8. [🆘 Suporte](#-suporte)
 
 
 ## 🚀 Funcionalidades
