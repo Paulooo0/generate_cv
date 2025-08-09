@@ -22,7 +22,7 @@ Um projeto Python que automatiza a criação de currículos profissionais em for
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/Paulooo0/generate_cv
 cd generate_cv
 
 # Execute o setup universal (detecta automaticamente o sistema)
@@ -35,7 +35,7 @@ python3 setup.py
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/Paulooo0/generate_cv
 cd generate_cv
 
 # Execute o script de setup
@@ -47,7 +47,7 @@ chmod +x script/setup.sh
 
 ```powershell
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/Paulooo0/generate_cv
 cd generate_cv
 
 # Execute o script de setup (PowerShell)
@@ -104,18 +104,18 @@ python3 run.py
 
 **Linux/macOS:**
 ```bash
-./run.sh
+./script/run.sh
 # ou
-bash run.sh
+bash ./script/run.sh
 ```
 
 **Windows:**
 ```powershell
 # PowerShell
-.\run.ps1
+.\script\run.ps1
 
 # Command Prompt
-run.bat
+.\script\run.bat
 ```
 
 #### **Opção 3: Manual (Avançado)**
@@ -143,34 +143,7 @@ Edite o arquivo `app/build_docx.py` para personalizar:
 - **Habilidades técnicas**
 - **Idiomas**
 
-### Estrutura do Projeto
-
-```
-generate_cv/
-├── app/                           # Aplicação principal
-│   ├── main.py                    # Script principal
-│   ├── generate_docx.py           # Geração do arquivo DOCX
-│   ├── build_docx.py              # Template e estrutura do currículo
-│   ├── convert_docx_to_pdf.py     # Conversão para PDF
-│   └── requirements.txt           # Dependências Python
-├── tools/                         # Ferramentas e utilitários
-│   ├── utils.py                   # Utilitários cross-platform
-│   ├── test_compatibility.py      # Testes de compatibilidade
-│   ├── check_libreoffice.py       # Verificação específica do LibreOffice
-│   └── add_libreoffice_to_path.py # Adicionar LibreOffice ao PATH
-├── script/                        # Scripts de setup
-│   ├── setup.sh                   # Script de setup para Linux
-│   └── setup.ps1                  # Script de setup para Windows
-├── setup.py                       # Setup universal (detecta sistema)
-├── run.py                         # Execução universal (detecta sistema)
-├── run.sh                         # Execução para Linux/macOS
-├── run.ps1                        # Execução para Windows (PowerShell)
-├── run.bat                        # Execução para Windows (CMD)
-├── out/                           # Arquivos gerados (criado automaticamente)
-│   ├── cv.docx
-│   └── cv.pdf
-└── venv/                          # Ambiente virtual Python
-```
+Ou crie sessões novas como desejar
 
 ## 📄 Formato do Currículo
 
